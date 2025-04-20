@@ -1,0 +1,12 @@
+# train_custom.yaml
+# 'mode' is required only for CLI usage
+mode: train
+data: coco8.yaml
+model: yolo11n.pt
+epochs: 100
+hsv_h: 0.03
+hsv_s: 0.6
+hsv_v: 0.5
+fliplr: 0.5
+degrees: 90
+shear: 10

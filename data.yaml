@@ -4,10 +4,3 @@ test: ../test/images
 
 nc: 1
 names: ['airport-trolley']
-
-roboflow:
-  workspace: mohamed-ait-mehdi-gcyzw
-  project: airport-trolley-pcqdc
-  version: 2
-  license: CC BY 4.0
-  url: https://app.roboflow.com/mohamed-ait-mehdi-gcyzw/airport-trolley-pcqdc/2
